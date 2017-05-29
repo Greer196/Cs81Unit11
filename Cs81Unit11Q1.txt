@@ -1,0 +1,4 @@
+Node.js is a JavaScript run-time environment which allows for JavaScript to be executed server side 
+instead of client side. So instead of having JavaScript being written into the webpage and ran client 
+side in the user's web browser. by running server side the speed and efficiency of the scripts is not 
+dependent on the user's device, allowing a more standard and universal experience. 
